@@ -5,5 +5,5 @@ package hu.bme.mit.spaceship;
 * with 4 firing modes
 */
 public enum FiringMode {
-  SINGLE, ALL
+  SINGLE, ALL, LOWER_DECK
 }
